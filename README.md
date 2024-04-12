@@ -21,7 +21,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - LinkedIn - [Jailton Junior](https://www.linkedin.com/in/dev-jjunior/)
-- Solution URL : [Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-using-flexbox-f5VNQ0Lu6L)
+- Solution URL - [Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-using-flexbox-f5VNQ0Lu6L)
 
 ## My process
 
